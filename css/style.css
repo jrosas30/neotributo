@@ -509,6 +509,8 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   top: -20px;
   left: -20px;
+  border-radius: 10px;
+  padding: 10px;
 }
 #gtco-about .heading {
   position: relative;
